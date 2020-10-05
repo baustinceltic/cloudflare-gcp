@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Action",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientASN",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientASNDescription",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientCountry",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientIP",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientIPClass",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRefererHost",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRefererPath",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRefererQuery",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRefererScheme",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestHost",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestMethod",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestPath",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestMethod",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestPath",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestProtocol",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestQuery",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestScheme",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ClientRequestUserAgent",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Datetime",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "EdgeColoCode",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "EdgeResponseStatus",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Kind",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+   {
+    "name": "MatchIndex",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Metadata",
+    "type": "OBJECT",
+    "mode": "NULLABLE"
+  },
+   {
+    "name": "OriginResponseStatus",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "OriginatorRayID",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "RayID",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "RuleID",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Source",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
